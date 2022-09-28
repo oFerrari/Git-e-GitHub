@@ -1,3 +1,6 @@
 # Git-e-GitHub
  Curso em Video
-Alterando codigo pelo VSCode
+ 
+\nAlterando codigo pelo VSCode
+
+\nAlterando o codigo pelo site
